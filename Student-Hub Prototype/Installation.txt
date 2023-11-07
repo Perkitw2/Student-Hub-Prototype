@@ -1,0 +1,5 @@
+
+
+To install and run this application, Please open the file and install node modules using "npm i --force" command
+in the terminal. Then once it has installed please run the command "npm run dev". This will give you the local 
+link to run the webpage.
